@@ -1,0 +1,4 @@
+repository "GJG_game_dev_case/GJG_game_dev_case@18967743890786@cloud"
+  path "/"
+    br "/main"
+    co "/main"
